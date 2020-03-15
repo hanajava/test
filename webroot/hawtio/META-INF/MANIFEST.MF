@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Implementation-Title: hawtio-default
+Implementation-Version: 2.9.1
+Java-Version: 1.8.0_242
+Built-By: tasato
+Scm-Connection: scm:git:git@github.com:hawtio/hawtio.git/hawtio-defaul
+ t
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: hawtio-default
+Implementation-Vendor-Id: io.hawt
+Java-Vendor: Oracle Corporation
+Os-Name: Linux
+Scm-Url: git@github.com:hawtio/hawtio.git/hawtio-default
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 4.20.10-1.el7.elrepo.x86_64
+Scm-Revision: 48bfd91166cb688567ac67d63b026f125c0dab20
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_242
+Specification-Version: 2.9
+Implementation-URL: http://hawt.io/hawtio-default/
+
