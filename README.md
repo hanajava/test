@@ -1,5 +1,6 @@
 # tomcat dev env
 Apache Tomcat domains + webroot
+<pre>
 [root@web01 tomcat]# tree -L 3
 |-- domains
 |   |-- tomcat11
@@ -155,5 +156,4 @@ Apache Tomcat domains + webroot
 |       |-- viewSession.jsp
 |       `-- WEB-INF
 `-- webroot.tgz
-
-97 directories, 573 files
+</pre>
