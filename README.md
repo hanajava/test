@@ -1,4 +1,4 @@
-# tomcat dev env
+# tomcat 환경 설정
 Apache Tomcat domains + webroot
 <pre>
 [root@web01 tomcat]# tree -L 3
